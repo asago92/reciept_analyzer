@@ -7,7 +7,7 @@ from datetime import datetime
 
 # Configure page
 st.set_page_config(page_title="Receipt Analytics Dashboard", layout="wide")
-st.title("📊 Receipt Data Analysis Dashboard")
+st.title(":material/receipt_long: Receipt Data Analysis Dashboard")
 
 # Sample JSON structure for user reference
 st.sidebar.subheader("Expected JSON Format")
